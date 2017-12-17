@@ -2,11 +2,8 @@
   "name": "reins-presence-bot",
   "version": "1.0.0",
   "description": "",
-  "main": "botjs",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "main": "bot.js",
+  "author": "Gamerein",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.3.0",
